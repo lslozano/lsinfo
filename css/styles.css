@@ -1,0 +1,18 @@
+body {
+  background-color: #ecfbfc;;
+}
+
+hr {
+  border-style: dotted none none; /* none border style removes border-width default value*/
+  border-color:gray;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1, h3 {
+  color: #66bfbf
+}
+
+img {
+  width: 150px;
+}
